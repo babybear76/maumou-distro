@@ -12,7 +12,7 @@
       "name": "마우먀우의 새해이벤트!",
       "description": "maumou Running Minecraft 1.20.1 (Fabric v0.16.9)",
       "icon": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/launcherIMG.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "maumou.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
