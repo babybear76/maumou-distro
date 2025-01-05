@@ -12,7 +12,7 @@
       "name": "마우먀우의 새해이벤트!",
       "description": "maumou Running Minecraft 1.20.1 (Fabric v0.16.9)",
       "icon": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/launcherIMG.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "maumou.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -172,6 +172,20 @@
             "size": 442450,
             "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.11+mc1.20.1.jar",
             "MD5": "fd795ce17a72ac9fc054de9980c1c27d"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionaloff/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
