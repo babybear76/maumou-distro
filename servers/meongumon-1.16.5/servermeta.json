@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/helios/maumou/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "멍구몬서버 (Minecraft 1.16.5)",
+    "description": "meongumon Running Minecraft 1.16.5 (Forge v36.2.39)",
+    "icon": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/launcherIMG.png",
+    "address": "125.185.119.167",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}
