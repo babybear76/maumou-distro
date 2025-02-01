@@ -1,18 +1,18 @@
 {
-  "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
-  "servers": [
-	{
-		"id": "liberopixelmon-1.16.5",
+	"version": "1.0.0",
+	"rss": "<LINK TO RSS FEED>",
+	"discord": {
+	  "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>", 	
+	  "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+	  "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+	},
+	"servers": [
+	  {
+		"id": "meongumon-1.16.5",
 		"name": "멍구몬서버 (Minecraft 1.16.5)",
-		"description": "liberopixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
+		"description": "meongumon Running Minecraft 1.16.5 (Forge v36.2.39)",
 		"icon": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/launcherIMG.png",
-		"version": "1.0.0",
+		"version": "1.0.5",
 		"address": "125.185.119.167",
 		"minecraftVersion": "1.16.5",
 		"discord": {
@@ -31,7 +31,7 @@
 			"artifact": {
 			  "size": 212574,
 			  "MD5": "4afee0135f47547182faa2ea88efebac",
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar"
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar"
 			},
 			"subModules": [
 			  {
@@ -41,7 +41,7 @@
 				"artifact": {
 				  "size": 13577,
 				  "MD5": "2090bfafdec72f885ddf95300bd96714",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json"
 				}
 			  },
 			  {
@@ -52,7 +52,7 @@
 				"artifact": {
 				  "size": 2504067,
 				  "MD5": "3337e44edf13c5759548623b5866b967",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
 				},
 				"subModules": []
 			  },
@@ -64,7 +64,7 @@
 				"artifact": {
 				  "size": 4216473,
 				  "MD5": "253bbbe4aa8a7752615ea759fa178c80",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar"
 				},
 				"subModules": []
 			  },
@@ -75,8 +75,8 @@
 				"classpath": true,
 				"artifact": {
 				  "size": 11352644,
-				  "MD5": "31964290749e5cbb175199d03c0080c8",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+				  "MD5": "a3f22870db0655cd35481d4bccb1ba19",
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
 				},
 				"subModules": []
 			  },
@@ -88,7 +88,7 @@
 				"artifact": {
 				  "size": 9118806,
 				  "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
 				},
 				"subModules": []
 			  },
@@ -100,7 +100,7 @@
 				"artifact": {
 				  "size": 8428369,
 				  "MD5": "dbed747390f81e10cee40500b726431a",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
 				},
 				"subModules": []
 			  },
@@ -111,7 +111,7 @@
 				"artifact": {
 				  "size": 121790,
 				  "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
 				}
 			  },
 			  {
@@ -121,7 +121,7 @@
 				"artifact": {
 				  "size": 72641,
 				  "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
 				}
 			  },
 			  {
@@ -131,7 +131,7 @@
 				"artifact": {
 				  "size": 52662,
 				  "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
 				}
 			  },
 			  {
@@ -141,7 +141,7 @@
 				"artifact": {
 				  "size": 84679,
 				  "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
 				}
 			  },
 			  {
@@ -151,7 +151,7 @@
 				"artifact": {
 				  "size": 34257,
 				  "MD5": "f0e82941173b6049c03e8214ace70ecd",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
 				}
 			  },
 			  {
@@ -161,7 +161,7 @@
 				"artifact": {
 				  "size": 126747,
 				  "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
 				}
 			  },
 			  {
@@ -171,7 +171,7 @@
 				"artifact": {
 				  "size": 2113,
 				  "MD5": "d19b487241008d8e6111137a289ea1d7",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
 				}
 			  },
 			  {
@@ -181,7 +181,7 @@
 				"artifact": {
 				  "size": 76586,
 				  "MD5": "ada4c365c3d0de73c05a94010432b547",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
 				}
 			  },
 			  {
@@ -191,7 +191,7 @@
 				"artifact": {
 				  "size": 337868,
 				  "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
 				}
 			  },
 			  {
@@ -201,7 +201,7 @@
 				"artifact": {
 				  "size": 42873,
 				  "MD5": "84c4758e6139b70146104be5bb1300b5",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
 				}
 			  },
 			  {
@@ -211,7 +211,7 @@
 				"artifact": {
 				  "size": 20172,
 				  "MD5": "8f1f6942d17d88d704324e8000666a1a",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
 				}
 			  },
 			  {
@@ -221,7 +221,7 @@
 				"artifact": {
 				  "size": 25453,
 				  "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
 				}
 			  },
 			  {
@@ -231,7 +231,7 @@
 				"artifact": {
 				  "size": 2834,
 				  "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
 				}
 			  },
 			  {
@@ -241,7 +241,7 @@
 				"artifact": {
 				  "size": 199091,
 				  "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
 				}
 			  },
 			  {
@@ -251,7 +251,7 @@
 				"artifact": {
 				  "size": 31288,
 				  "MD5": "615b8e62371c536f876764591990118d",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
 				}
 			  },
 			  {
@@ -261,7 +261,7 @@
 				"artifact": {
 				  "size": 732926,
 				  "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
 				}
 			  },
 			  {
@@ -271,7 +271,7 @@
 				"artifact": {
 				  "size": 57824,
 				  "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
 				}
 			  },
 			  {
@@ -281,7 +281,7 @@
 				"artifact": {
 				  "size": 15425,
 				  "MD5": "ee4596e1413cc1a5e080c971d6064753",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
 				}
 			  },
 			  {
@@ -291,7 +291,7 @@
 				"artifact": {
 				  "size": 301804,
 				  "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
 				}
 			  },
 			  {
@@ -301,7 +301,7 @@
 				"artifact": {
 				  "size": 1789769,
 				  "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
 				}
 			  },
 			  {
@@ -311,7 +311,7 @@
 				"artifact": {
 				  "size": 21223,
 				  "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
 				}
 			  },
 			  {
@@ -321,7 +321,7 @@
 				"artifact": {
 				  "size": 15977,
 				  "MD5": "679363fa893293791e55a21f81342f87",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
 				}
 			  },
 			  {
@@ -331,7 +331,7 @@
 				"artifact": {
 				  "size": 78146,
 				  "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
 				}
 			  },
 			  {
@@ -341,7 +341,7 @@
 				"artifact": {
 				  "size": 1069391,
 				  "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
 				}
 			  },
 			  {
@@ -351,10 +351,20 @@
 				"artifact": {
 				  "size": 2194057,
 				  "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-				  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+				  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
 				}
 			  }
 			]
+		  },
+		  {
+			"id": "com.teammetallurgy:aquaculture:1.16.5-2.1.20@jar",
+			"name": "Aquaculture 2",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 550689,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/Aquaculture-1.16.5-2.1.20.jar",
+			  "MD5": "2f31e441008fd11b46f234d77ea397b3"
+			}
 		  },
 		  {
 			"id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-beta.3@jar",
@@ -362,8 +372,88 @@
 			"type": "ForgeMod",
 			"artifact": {
 			  "size": 3004148,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/armourers_workshop-2.0.0-beta.3.jar",
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/armourers_workshop-2.0.0-beta.3.jar",
 			  "MD5": "727b6784e73f1daf97f4a64629c06c98"
+			}
+		  },
+		  {
+			"id": "com.lypaka:betterpokeitem:1.16.5-2.0.1@jar",
+			"name": "BetterPokeItem",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 23581,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/BetterPokeItem-1.16.5-2.0.1.jar",
+			  "MD5": "e66e63ce0de7ca2dae64efca67d618ba"
+			}
+		  },
+		  {
+			"id": "de.maxhenkel:camera:1.16.5-1.0.14@jar",
+			"name": "Camera Mod",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 273299,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/camera-1.16.5-1.0.14.jar",
+			  "MD5": "91f52f8feec00dfe0aed9a851c19b7ea"
+			}
+		  },
+		  {
+			"id": "tschipp.carryon:carryon:1.15.5.22@jar",
+			"name": "Carry On",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 322836,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/carryon-1.16.5-1.15.5.22.jar",
+			  "MD5": "21f44284def5d49b6655aa018d71eb8e"
+			}
+		  },
+		  {
+			"id": "com.mrcrayfish.furniture:cfm:7.0.0-pre22@jar",
+			"name": "MrCrayfish's Furniture Mod",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 2033912,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/cfm-7.0.0pre22-1.16.3.jar",
+			  "MD5": "b2a5f7a361279de6bb5f51246ad36484"
+			}
+		  },
+		  {
+			"id": "mod.chiselsandbits:chiselsandbits:1.0.35-ALPHA.@jar",
+			"name": "Chisels & bits",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 1303995,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/chiselsandbits-1.0.35-ALPHA..jar",
+			  "MD5": "26f1d2d8f2d6ac0515c0a836a9d6ad00"
+			}
+		  },
+		  {
+			"id": "me.shedaniel.clothconfig:cloth-config:4.17.132@jar",
+			"name": "Cloth Config v4 API",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 1465189,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/cloth-config-4.17.132-forge.jar",
+			  "MD5": "07248631eca30f7b4872284cc5c4c0f6"
+			}
+		  },
+		  {
+			"id": "com.epherical:croptopia:2.0.5@jar",
+			"name": "Croptopia",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 1496348,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/Croptopia-1.16.5-FORGE-2.0.5.jar",
+			  "MD5": "e12187654d8cf7f6b981718fa4a8671b"
+			}
+		  },
+		  {
+			"id": "top.theillusivec4:curios:1.16.5-4.1.0.0@jar",
+			"name": "Curios API",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 291897,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/curios-forge-1.16.5-4.1.0.0.jar",
+			  "MD5": "4f71bcd532f9a3c8b051ef30787bd404"
 			}
 		  },
 		  {
@@ -372,8 +462,28 @@
 			"type": "ForgeMod",
 			"artifact": {
 			  "size": 12457390,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
 			  "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
+			}
+		  },
+		  {
+			"id": "vectorwing.farmersdelight:farmersdelight:1.16.5-0.5.5@jar",
+			"name": "Farmer's Delight",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 2541262,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/FarmersDelight-1.16.5-0.5.5.jar",
+			  "MD5": "304ed33cb345763eda3b417b8ed86387"
+			}
+		  },
+		  {
+			"id": "io.github.wouink:furnish:1.16.5-0.5@jar",
+			"name": "Furnish",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 1368245,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/furnish-1.16.5-0.5.jar",
+			  "MD5": "d0f843a685e4e1db3ed5767b1ab08b1e"
 			}
 		  },
 		  {
@@ -382,8 +492,48 @@
 			"type": "ForgeMod",
 			"artifact": {
 			  "size": 2608793,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/HaruMod-0.47.1-SNAPSHOT-unsigned.jar",
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/HaruMod-0.47.1-SNAPSHOT-unsigned.jar",
 			  "MD5": "5766ab34d4d4fad9d34be3667f727521"
+			}
+		  },
+		  {
+			"id": "mezz.jei:jei:7.8.0.1009@jar",
+			"name": "Just Enough Items",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 839446,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar",
+			  "MD5": "6c7827e443f483cc5e94aaff7c694901"
+			}
+		  },
+		  {
+			"id": "com.lypaka:lypakautils:1.16.5@jar",
+			"name": "LypakaUtils",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 4484975,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/LypakaUtils-1.16.5-0.5.5.jar",
+			  "MD5": "d1455df41cef742a9ef383189cbac4be"
+			}
+		  },
+		  {
+			"id": "com.mcwlights.kikoz:mcwlights:1.1.0@jar",
+			"name": "Macaw's Lights and Lamps",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 481865,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/mcw-lights-1.1.0-mc1.16.5forge.jar",
+			  "MD5": "780f0dba70b3621ecb31d33a5b72e23d"
+			}
+		  },
+		  {
+			"id": "com.mrbysco:measurements:1.2@jar",
+			"name": "Measurements",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 20051,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/Measurements-1.16.5-1.2.jar",
+			  "MD5": "ebffd204060cd0bddc63d5901dc10dd2"
 			}
 		  },
 		  {
@@ -392,7 +542,7 @@
 			"type": "ForgeMod",
 			"artifact": {
 			  "size": 225324,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/memoryleakfix-1.1.5.jar",
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/memoryleakfix-1.1.5.jar",
 			  "MD5": "fe7c6324891ef8f6d00ebc23f6d185a2"
 			}
 		  },
@@ -402,7 +552,7 @@
 			"type": "ForgeMod",
 			"artifact": {
 			  "size": 1755294,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/naraechat-1.16.3-0.7.1.jar",
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/naraechat-1.16.3-0.7.1.jar",
 			  "MD5": "e75b886d783090db4d3c7b45c0e25f10"
 			}
 		  },
@@ -417,300 +567,145 @@
 			}
 		  },
 		  {
+			"id": "me.ferdz:placeableitems:4.5.1@jar",
+			"name": "Placeable Items",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 544443,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/placeableitems-4.5.1.jar",
+			  "MD5": "6927a3a531a006e82bfa50e8927f7377"
+			}
+		  },
+		  {
+			"id": "net.mehvahdjukaar:selene:1.16.5-1.0@jar",
+			"name": "Selene",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 218460,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/selene-1.16.5-1.9.0.jar",
+			  "MD5": "2edb1ffe6040a68d242bd80cec3cb98d"
+			}
+		  },
+		  {
 			"id": "de.maxhenkel:voicechat:1.16.5-2.5.22@jar",
 			"name": "Simple Voice Chat",
 			"type": "ForgeMod",
 			"artifact": {
 			  "size": 7720153,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.22.jar",
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.22.jar",
 			  "MD5": "9d1ecaa3e01a3542d67b9e430699798a"
 			}
 		  },
 		  {
-			"id": "options.txt",
-			"name": "options.txt",
+			"id": "xaero.minimap:xaerominimap:25.0.0@jar",
+			"name": "Xaero's Minimap",
+			"type": "ForgeMod",
+			"artifact": {
+			  "size": 1551951,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/forgemods/required/Xaeros_Minimap_25.0.0_Forge_1.16.5.jar",
+			  "MD5": "c5725a336537278fb488740256262b35"
+			}
+		  },
+		  {
+			"id": "Better Cats! 1.16.5.zip",
+			"name": "Better Cats! 1.16.5.zip",
 			"type": "File",
 			"artifact": {
-			  "size": 4610,
-			  "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/files/options.txt",
-			  "MD5": "358f515795298ed1dda83768fe2b2c8d",
-			  "path": "options.txt"
+			  "size": 562185,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/resourcepacks/Better%20Cats!%201.16.5.zip",
+			  "MD5": "3f98ac02c3c5b89e3afc15172c821819",
+			  "path": "resourcepacks/Better Cats! 1.16.5.zip"
+			}
+		  },
+		  {
+			"id": "Better dogs V1.12 - Mrblueyeti.zip",
+			"name": "Better dogs V1.12 - Mrblueyeti.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 1462265,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/resourcepacks/Better%20dogs%20V1.12%20-%20Mrblueyeti.zip",
+			  "MD5": "80d72104e58d2747d1f5e0edcd61fb54",
+			  "path": "resourcepacks/Better dogs V1.12 - Mrblueyeti.zip"
+			}
+		  },
+		  {
+			"id": "Clarity-1.16.zip",
+			"name": "Clarity-1.16.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 18617957,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/resourcepacks/Clarity-1.16.zip",
+			  "MD5": "2ccc5683a25516bb67dc6180127c01a9",
+			  "path": "resourcepacks/Clarity-1.16.zip"
+			}
+		  },
+		  {
+			"id": "Dramatic+Sky+for+1.16+ (1).zip",
+			"name": "Dramatic+Sky+for+1.16+ (1).zip",
+			"type": "File",
+			"artifact": {
+			  "size": 8906876,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/resourcepacks/Dramatic+Sky+for+1.16+%20(1).zip",
+			  "MD5": "6cc5431ff4ad13bdda6a373c11f0474a",
+			  "path": "resourcepacks/Dramatic+Sky+for+1.16+ (1).zip"
+			}
+		  },
+		  {
+			"id": "VisibleOres1.5.zip",
+			"name": "VisibleOres1.5.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 770546,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/resourcepacks/VisibleOres1.5.zip",
+			  "MD5": "712301bcdbeabec74021b513828a3500",
+			  "path": "resourcepacks/VisibleOres1.5.zip"
+			}
+		  },
+		  {
+			"id": "BSL_v8.2.09.zip",
+			"name": "BSL_v8.2.09.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 954784,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/shaderpacks/BSL_v8.2.09.zip",
+			  "MD5": "4443556b4e0d63394f0df1297e484454",
+			  "path": "shaderpacks/BSL_v8.2.09.zip"
+			}
+		  },
+		  {
+			"id": "ComplementaryUnbound_r5.2.2.zip",
+			"name": "ComplementaryUnbound_r5.2.2.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 441687,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+			  "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+			  "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+			}
+		  },
+		  {
+			"id": "Nostalgia_v5.0.zip",
+			"name": "Nostalgia_v5.0.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 1843622,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/shaderpacks/Nostalgia_v5.0.zip",
+			  "MD5": "3d6203d1c170dd175c84cdafaf1b08e4",
+			  "path": "shaderpacks/Nostalgia_v5.0.zip"
+			}
+		  },
+		  {
+			"id": "SEUS PTGI HRR Test 2.1.zip",
+			"name": "SEUS PTGI HRR Test 2.1.zip",
+			"type": "File",
+			"artifact": {
+			  "size": 4402258,
+			  "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/meongumon-1.16.5/files/shaderpacks/SEUS%20PTGI%20HRR%20Test%202.1.zip",
+			  "MD5": "a2f6feaf818e09dafd9a2afedcae5ba0",
+			  "path": "shaderpacks/SEUS PTGI HRR Test 2.1.zip"
 			}
 		  }
 		]
-	  },
-    {
-      "id": "maumou-1.20.1",
-      "name": "마우먀우의 새해이벤트!",
-      "description": "maumou Running Minecraft 1.20.1 (Fabric v0.16.9)",
-      "icon": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/launcherIMG.png",
-      "version": "1.0.5",
-      "address": "maumou.kro.kr",
-      "minecraftVersion": "1.20.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.16.9",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1387357,
-            "MD5": "27a6ef87676ce6316c777d81c1cd2962",
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.20.1-fabric-0.16.9",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2857,
-                "MD5": "30f60f64f1cfddade4ba3a165a9dfc1a",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/versions/1.20.1-fabric-0.16.9/1.20.1-fabric-0.16.9.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1494834,
-                "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.20.1",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 573365,
-                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "me.pepperbell:continuity:3.0.0+1.20.1@jar",
-          "name": "Continuity",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1016063,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionalon/continuity-3.0.0+1.20.1.jar",
-            "MD5": "d180631d4db7588393f1d0c280593bc3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2107289,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
-            "MD5": "92c58961866741106aae126558c9d4a7"
-          }
-        },
-        {
-          "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
-          "name": "Indium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 105359,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionalon/indium-1.0.34+mc1.20.1.jar",
-            "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:iris:1.7.5+mc1.20.1@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2730664,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionalon/iris-1.7.5+mc1.20.1.jar",
-            "MD5": "902528a82a843300ecf9027af9f8fb8c"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.hyfata.najoan:koreanpatch:1.6.11+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 442450,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionalon/koreanpatch-fabric-1.6.11+mc1.20.1.jar",
-            "MD5": "fd795ce17a72ac9fc054de9980c1c27d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.terraformersmc:modmenu:7.2.2@jar",
-          "name": "Mod Menu",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 721366,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionaloff/modmenu-7.2.2.jar",
-            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 968419,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/fabricmods/optionalon/sodium-fabric-0.5.11+mc1.20.1.jar",
-            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3812,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 209,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/servers.dat",
-            "path": "servers.dat"
-          }
-        },
-        {
-          "id": "servers.dat_old",
-          "name": "servers.dat_old",
-          "type": "File",
-          "artifact": {
-            "size": 209,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/servers.dat_old",
-            "path": "servers.dat_old"
-          }
-        },
-        {
-          "id": "BSL_v8.2.09.zip",
-          "name": "BSL_v8.2.09.zip",
-          "type": "File",
-          "artifact": {
-            "size": 954784,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
-            "MD5": "4443556b4e0d63394f0df1297e484454",
-            "path": "shaderpacks/BSL_v8.2.09.zip"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.2.2.zip",
-          "name": "ComplementaryUnbound_r5.2.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 441687,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
-            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
-            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
-          }
-        },
-        {
-          "id": "Nostalgia_v5.0.zip",
-          "name": "Nostalgia_v5.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1843622,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/shaderpacks/Nostalgia_v5.0.zip",
-            "MD5": "3d6203d1c170dd175c84cdafaf1b08e4",
-            "path": "shaderpacks/Nostalgia_v5.0.zip"
-          }
-        },
-        {
-          "id": "SEUS PTGI HRR Test 2.1.zip",
-          "name": "SEUS PTGI HRR Test 2.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 4402258,
-            "url": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/servers/maumou-1.20.1/files/shaderpacks/SEUS%20PTGI%20HRR%20Test%202.1.zip",
-            "MD5": "a2f6feaf818e09dafd9a2afedcae5ba0",
-            "path": "shaderpacks/SEUS PTGI HRR Test 2.1.zip"
-          }
-        }
-      ]
-    }
-  ]
-}
+	  }
+	]
+  }
