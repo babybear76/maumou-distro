@@ -9,11 +9,11 @@
 	"servers": [
 	  {
 		"id": "meongumon-1.16.5",
-		"name": "멍구몬서버 (Minecraft 1.16.5)",
-		"description": "meongumon Running Minecraft 1.16.5 (Forge v36.2.39)",
+		"name": "업데이트 클릭!",
+		"description": "좌측 상단 업데이트 클릭!!!",
 		"icon": "https://raw.githubusercontent.com/babybear76/maumou-distro/main/launcherIMG.png",
 		"version": "1.0.5",
-		"address": "125.185.119.167",
+		"address": "localhost",
 		"minecraftVersion": "1.16.5",
 		"discord": {
 		  "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
